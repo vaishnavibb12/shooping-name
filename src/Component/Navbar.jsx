@@ -12,7 +12,7 @@ const Navbar = () => {
      <div className="container">
       <div className="d-flex justify-content-between py-3 px-5 bg-secondary text-white">
         <Link to="/" className="navbar-brand fs-4 fw-bolder">
-          Shop
+          Shops
         </Link>
         <Link
           to="/cart"
